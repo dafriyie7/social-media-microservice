@@ -34,3 +34,31 @@
 {"level":"info","message":"Received POST request to /v1/auth/register","server":"api-gateway","timestamp":"2025-11-14T11:25:05.563Z"}
 {"level":"info","message":"Request body: {\"username\":\"dafriyie2\",\"email\":\"dafriyie2@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-11-14T11:25:05.563Z"}
 {"level":"info","message":"Response received from identity service: 400","server":"api-gateway","timestamp":"2025-11-14T11:25:05.582Z"}
+{"level":"info","message":"Received GET request to /v1/auth/login","server":"api-gateway","timestamp":"2025-11-14T11:42:29.334Z"}
+{"level":"info","message":"Response received from identity service: 404","server":"api-gateway","timestamp":"2025-11-14T11:42:29.372Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-11-14T11:44:04.948Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-11-14T11:44:04.951Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-11-14T11:44:04.952Z"}
+{"level":"info","message":"Received GET request to /v1/auth/login","server":"api-gateway","timestamp":"2025-11-14T11:44:52.358Z"}
+{"level":"info","message":"Response received from identity service: 404","server":"api-gateway","timestamp":"2025-11-14T11:44:52.366Z"}
+{"level":"info","message":"Received GET request to /v1/auth/register","server":"api-gateway","timestamp":"2025-11-14T11:45:14.189Z"}
+{"level":"info","message":"Response received from identity service: 404","server":"api-gateway","timestamp":"2025-11-14T11:45:14.200Z"}
+{"level":"info","message":"Received GET request to /v1/auth/register","server":"api-gateway","timestamp":"2025-11-14T11:46:15.171Z"}
+{"level":"info","message":"Response received from identity service: 404","server":"api-gateway","timestamp":"2025-11-14T11:46:15.178Z"}
+{"level":"info","message":"Received GET request to /v1/auth/register","server":"api-gateway","timestamp":"2025-11-14T11:46:37.292Z"}
+{"level":"info","message":"Response received from identity service: 404","server":"api-gateway","timestamp":"2025-11-14T11:46:37.299Z"}
+{"level":"info","message":"Received POST request to /v1/auth/register","server":"api-gateway","timestamp":"2025-11-14T11:47:42.745Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\",\"username\":\"dafriyie7\"}","server":"api-gateway","timestamp":"2025-11-14T11:47:42.746Z"}
+{"level":"info","message":"Response received from identity service: 400","server":"api-gateway","timestamp":"2025-11-14T11:47:42.776Z"}
+{"level":"info","message":"Received POST request to /v1/auth/register","server":"api-gateway","timestamp":"2025-11-14T11:47:53.985Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\",\"username\":\"dafriyie7\"}","server":"api-gateway","timestamp":"2025-11-14T11:47:53.985Z"}
+{"level":"info","message":"Response received from identity service: 400","server":"api-gateway","timestamp":"2025-11-14T11:47:53.998Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-11-14T11:48:02.497Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\",\"username\":\"dafriyie7\"}","server":"api-gateway","timestamp":"2025-11-14T11:48:02.497Z"}
+{"level":"info","message":"Response received from identity service: 400","server":"api-gateway","timestamp":"2025-11-14T11:48:02.508Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-11-14T11:48:47.675Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\",\"username\":\"dafriyie7\"}","server":"api-gateway","timestamp":"2025-11-14T11:48:47.675Z"}
+{"level":"info","message":"Response received from identity service: 400","server":"api-gateway","timestamp":"2025-11-14T11:48:47.683Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-11-14T11:49:48.972Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-11-14T11:49:48.972Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-11-14T11:49:49.108Z"}
