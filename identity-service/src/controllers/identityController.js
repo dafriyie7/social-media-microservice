@@ -43,6 +43,18 @@ export const registerUser = async (req, res) => {
 };
 
 // user login
+const loginUer = async (req, res) => {
+	logger.info("login endpoint hit...");
+	try {
+		
+	} catch (error) {
+		logger.error("login error occured", error);
+		res.status(500).json({
+			success: false,
+			message: "internal server error",
+		});
+	}
+}
 
 // refresh token
 
