@@ -1,5 +1,10 @@
 import express from "express";
-import { loginUer, registerUser, logoutUser, createRefreshToken} from "../controllers/identityController.js";
+import {
+	loginUer,
+	registerUser,
+	logoutUser,
+	createRefreshToken,
+} from "../controllers/identityController.js";
 
 const router = express.Router();
 

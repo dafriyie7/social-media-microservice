@@ -1,0 +1,48 @@
+{"level":"info","message":"Server is running on port 3002","server":"post-service","timestamp":"2025-11-16T22:48:18.573Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-16T22:48:18.607Z"}
+{"level":"info","message":"identity is running on port 3002","server":"post-service","timestamp":"2025-11-16T22:49:23.457Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-16T22:49:23.485Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-16T22:49:28.359Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-16T22:49:28.388Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-17T08:06:52.457Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-17T08:06:52.500Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-17T09:22:39.608Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-17T09:22:39.655Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-17T09:22:43.292Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-17T09:22:43.337Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-17T09:22:45.442Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-17T09:22:45.483Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T11:01:50.488Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T11:01:50.490Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T11:01:50.491Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T11:31:17.255Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T11:31:17.256Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T11:31:17.257Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T11:31:30.096Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T11:31:30.097Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T11:31:30.098Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T13:09:28.835Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T13:09:28.835Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T13:09:28.836Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T13:09:43.532Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T13:09:43.532Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T13:09:43.533Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T13:10:01.107Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T13:10:01.108Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T13:10:01.108Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-17T13:18:48.591Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-17T13:18:48.631Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-17T13:18:59.483Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-17T13:18:59.521Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T13:51:42.363Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T13:51:42.364Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T13:51:42.366Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T14:04:08.238Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T14:04:08.239Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T14:04:08.240Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T14:04:23.929Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T14:04:23.930Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T14:04:23.931Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T14:08:35.589Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T14:08:35.589Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T14:08:35.590Z"}

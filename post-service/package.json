@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node src/server.js",
-	"dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",

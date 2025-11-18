@@ -77,6 +77,36 @@ app.use(
 	})
 );
 
+// post service proxy
+app.use(
+	"/v1/posts",
+	proxy(process.env.POST_SERVICE_URI, {
+		...proxyOptions,
+		parseReqBody: true, // IMPORTANT — fixes empty body
+		proxyReqBodyDecorator: (body, srcReq) => body, // forward exactly as received
+
+		proxyReqOptDecorator: (proxyReqOpts, srcReq) => {
+			proxyReqOpts.headers["Content-Type"] = "application/json";
+
+			// FIX THIS — choose one:
+			// Option A: pass userId from the request body
+			if (srcReq.body?.userId) {
+				proxyReqOpts.headers["x-user-id"] = srcReq.body.userId;
+			}
+
+			return proxyReqOpts;
+		},
+
+		userResDecorator: (proxyRes, proxyResData) => {
+			logger.info(
+				`Response received from post service: ${proxyRes.statusCode}`
+			);
+			return proxyResData.toString("utf8");
+		},
+	})
+);
+
+
 // Error handling middleware
 app.use(errorHandler);
 
@@ -84,5 +114,6 @@ app.use(errorHandler);
 app.listen(PORT, () => {
 	logger.info(`API gateway running on port ${PORT}`);
 	logger.info(`Identity service URL: ${process.env.IDENTITY_SERVICE_URI}`);
+	logger.info(`post service URL: ${process.env.POST_SERVICE_URI}`);
 	logger.info(`Redis URL: ${process.env.REDIS_URI}`);
 });
