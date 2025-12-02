@@ -1,4 +1,4 @@
-import logger from "../utils/logger";
+import logger from "../utils/logger.js";
 import jwt from "jsonwebtoken";
 
 const validateToken = (req, res, next) => {
@@ -19,12 +19,13 @@ const validateToken = (req, res, next) => {
 	jwt.verify(token, process.env.JWT_SECRET, (err, user) => { 
 		if (err) { 
 			logger.warn("invalid token");
-			return res.status(403).json({
+			return res.status(401).json({
 				success: false,
 				message: "invalid token",
 			});
 			} else {
-			req.user = user;
+			req.userId = user.userId
+
 			next();
 		}
 	})

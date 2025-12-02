@@ -46,3 +46,694 @@
 {"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-11-17T14:08:35.589Z"}
 {"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-11-17T14:08:35.589Z"}
 {"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-11-17T14:08:35.590Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-19T02:02:58.736Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-19T02:02:58.765Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-11-28T17:00:55.897Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-11-28T17:00:55.930Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T11:06:25.436Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T11:06:25.481Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T11:38:41.891Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T11:38:41.933Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T17:41:01.334Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T17:41:01.393Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:09:27.438Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:09:27.503Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:09:31.445Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:09:31.511Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:09:36.311Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:09:36.371Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:16:49.374Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:16:49.376Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:16:49.378Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:20:48.030Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:20:48.031Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:20:48.032Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:21:13.425Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:21:13.426Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:21:13.426Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:21:59.271Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:21:59.271Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:21:59.272Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:22:31.558Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:22:31.558Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:22:31.559Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:24:23.022Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:24:23.022Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:24:23.023Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:24:52.497Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T18:24:52.498Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:24:52.498Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:25:02.255Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:25:02.255Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:25:02.255Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:25:26.353Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:25:26.354Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:25:26.354Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:25:31.454Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:25:31.455Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:25:31.455Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:26:01.268Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:26:01.332Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:26:10.317Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:26:10.318Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:26:10.319Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:27:01.720Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:27:01.720Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:27:01.721Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:27:42.729Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:27:42.730Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:27:42.730Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:29:02.378Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:29:02.379Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:29:02.380Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:29:07.743Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:29:07.743Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:29:07.744Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:30:23.773Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:30:23.773Z"}
+{"level":"warn","message":"access attempted without user ID","server":"post-service","timestamp":"2025-12-01T18:30:23.774Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:32:15.070Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:32:15.070Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:32:15.071Z"}
+{"level":"error","message":"error creating post Post is not defined","server":"post-service","stack":"ReferenceError: Post is not defined\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:9:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)\n    at handle (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15\n    at processParams (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:582:12)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:291:5)\n    at authenticateRequest (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/middlewares/auth.js:15:2)","timestamp":"2025-12-01T18:32:15.072Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:33:22.534Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:33:22.600Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:33:28.920Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:33:28.974Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:33:48.552Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:33:48.604Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:33:56.403Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:33:56.404Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:33:56.406Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"required","message":"Path `user` is required.","name":"ValidatorError","path":"user","properties":{"message":"Path `user` is required.","path":"user","type":"required"}}},"level":"error","message":"error creating post Post validation failed: user: Path `user` is required., content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Path `user` is required., content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T18:33:56.426Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:35:05.876Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:35:05.928Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:35:14.684Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:35:14.685Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:35:14.687Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"required","message":"Path `user` is required.","name":"ValidatorError","path":"user","properties":{"message":"Path `user` is required.","path":"user","type":"required"}}},"level":"error","message":"error creating post Post validation failed: user: Path `user` is required., content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Path `user` is required., content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T18:35:14.718Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:35:45.179Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:35:45.240Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:35:52.045Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:35:52.046Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:35:52.047Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"required","message":"Path `user` is required.","name":"ValidatorError","path":"user","properties":{"message":"Path `user` is required.","path":"user","type":"required"}}},"level":"error","message":"error creating post Post validation failed: user: Path `user` is required., content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Path `user` is required., content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T18:35:52.066Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:37:27.790Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:37:27.838Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:37:35.403Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:37:35.404Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:37:35.406Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:10:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:37:35.426Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:38:16.835Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:38:16.910Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:38:19.021Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:38:19.090Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:38:23.515Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:38:23.562Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:38:27.247Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:38:27.299Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:38:47.583Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:38:47.641Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:38:48.971Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:38:49.023Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:39:04.322Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:39:04.324Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:39:04.326Z"}
+{"0":"[","1":"o","10":"j","11":"e","12":"c","13":"t","14":"]","2":"b","3":"j","4":"e","5":"c","6":"t","7":" ","8":"O","9":"b","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:39:04.327Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:12:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:39:04.348Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:52:09.561Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:52:09.629Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:52:11.638Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:52:11.692Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:52:17.872Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:52:17.920Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:52:24.377Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:52:24.379Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:52:24.381Z"}
+{"0":"[","1":"o","10":"j","11":"e","12":"c","13":"t","14":"]","2":"b","3":"j","4":"e","5":"c","6":"t","7":" ","8":"O","9":"b","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:52:24.382Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:13:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:52:24.403Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:52:57.709Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:52:57.774Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:53:12.210Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:53:12.211Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:53:12.213Z"}
+{"level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:53:12.214Z","userId":"[object Object]"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:13:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:53:12.239Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:53:32.195Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:53:32.264Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:53:42.606Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:53:42.669Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:53:49.241Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:53:49.242Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:53:49.244Z"}
+{"0":"[","1":"o","10":"j","11":"e","12":"c","13":"t","14":"]","2":"b","3":"j","4":"e","5":"c","6":"t","7":" ","8":"O","9":"b","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:53:49.246Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:13:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:53:49.266Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:55:27.226Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:55:27.291Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:55:33.640Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:55:33.641Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:55:33.644Z"}
+{"level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:55:33.644Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"required","message":"Path `user` is required.","name":"ValidatorError","path":"user","properties":{"message":"Path `user` is required.","path":"user","type":"required"}}},"level":"error","message":"error creating post Post validation failed: user: Path `user` is required., content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Path `user` is required., content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T18:55:33.663Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:55:59.239Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:55:59.302Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:56:07.956Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:56:07.957Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:56:07.958Z"}
+{"level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:56:07.959Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"required","message":"Path `user` is required.","name":"ValidatorError","path":"user","properties":{"message":"Path `user` is required.","path":"user","type":"required"}}},"level":"error","message":"error creating post Post validation failed: user: Path `user` is required., content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Path `user` is required., content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T18:56:07.977Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:56:53.377Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:56:53.447Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:56:55.705Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:56:55.782Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:57:14.068Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:57:14.069Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:57:14.071Z"}
+{"0":"[","1":"o","10":"j","11":"e","12":"c","13":"t","14":"]","2":"b","3":"j","4":"e","5":"c","6":"t","7":" ","8":"O","9":"b","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:57:14.073Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:13:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:57:14.097Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:57:43.310Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:57:43.375Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:57:46.946Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:57:47.013Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T18:57:53.415Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T18:57:53.416Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T18:57:53.418Z"}
+{"0":"[","1":"o","10":"j","11":"e","12":"c","13":"t","14":"]","2":"b","3":"j","4":"e","5":"c","6":"t","7":" ","8":"O","9":"b","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T18:57:53.419Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}},"user":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\"","name":"CastError","path":"user","reason":{},"stringValue":"\"[object Object]\"","value":"[object Object]","valueType":"string"}},"level":"error","message":"error creating post Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: user: Cast to ObjectId failed for value \"[object Object]\" (type string) at path \"user\" because of \"BSONError\", content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1484:12)\n    at model.$set (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:1136:16)\n    at model.Document (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:178:12)\n    at model.Model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:127:12)\n    at new model (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/model.js:4861:15)\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:13:19)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)","timestamp":"2025-12-01T18:57:53.439Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T18:58:10.712Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T18:58:10.775Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T19:01:54.337Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T19:01:54.338Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T19:01:54.340Z"}
+{"0":"6","1":"9","10":"c","11":"5","12":"1","13":"c","14":"e","15":"c","16":"0","17":"c","18":"b","19":"4","2":"1","20":"7","21":"7","22":"8","23":"4","3":"5","4":"c","5":"a","6":"3","7":"3","8":"b","9":"2","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T19:01:54.341Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}}},"level":"error","message":"error creating post Post validation failed: content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T19:01:54.361Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:10:25.674Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:10:25.742Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:10:39.116Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:10:39.189Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T19:11:04.371Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T19:11:04.372Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T19:11:04.374Z"}
+{"0":"6","1":"9","10":"c","11":"5","12":"1","13":"c","14":"e","15":"c","16":"0","17":"c","18":"b","19":"4","2":"1","20":"7","21":"7","22":"8","23":"4","3":"5","4":"c","5":"a","6":"3","7":"3","8":"b","9":"2","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T19:11:04.375Z"}
+{"_message":"Post validation failed","errors":{"content":{"kind":"required","message":"Path `content` is required.","name":"ValidatorError","path":"content","properties":{"message":"Path `content` is required.","path":"content","type":"required"}}},"level":"error","message":"error creating post Post validation failed: content: Path `content` is required.","server":"post-service","stack":"ValidationError: Post validation failed: content: Path `content` is required.\n    at Document.invalidate (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3362:32)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/document.js:3123:17\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1420:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-12-01T19:11:04.395Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T19:11:36.704Z"}
+{"level":"info","message":"Request body: {\"content\":\"hello\"}","server":"post-service","timestamp":"2025-12-01T19:11:36.705Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T19:11:36.706Z"}
+{"0":"6","1":"9","10":"c","11":"5","12":"1","13":"c","14":"e","15":"c","16":"0","17":"c","18":"b","19":"4","2":"1","20":"7","21":"7","22":"8","23":"4","3":"5","4":"c","5":"a","6":"3","7":"3","8":"b","9":"2","level":"info","message":"user id ","server":"post-service","timestamp":"2025-12-01T19:11:36.707Z"}
+{"level":"info","message":"Post created successfully","server":"post-service","timestamp":"2025-12-01T19:11:36.736Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:14:43.465Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:14:43.532Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:14:45.898Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:14:45.944Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:10.282Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:10.359Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:16.563Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:16.633Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:18.996Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:19.047Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:21.878Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:21.932Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:24.323Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:24.372Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:31.390Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:31.459Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:37.974Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:38.023Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:41.257Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:41.309Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:44.525Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:44.574Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:15:50.309Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:15:50.371Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:16.754Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:16.816Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:22.506Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:22.567Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:25.349Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:25.412Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:30.906Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:30.964Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:33.133Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:33.194Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:38.400Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:38.449Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:16:42.424Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:16:42.474Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:34.149Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:34.209Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:38.061Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:38.132Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:40.277Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:40.329Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:42.441Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:42.496Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:46.222Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:46.294Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:49.066Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:49.131Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:17:50.142Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:17:50.198Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:18:02.052Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:18:02.120Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:18:08.295Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:18:08.361Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:18:10.622Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:18:10.681Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:18:11.806Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:18:11.858Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:19:13.644Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:19:13.709Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:19:20.576Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:19:20.620Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:20:13.016Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:20:13.069Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:20:16.563Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:20:17.803Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:20:17.861Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:20:21.848Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:20:21.888Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T19:21:07.735Z"}
+{"level":"info","message":"Request body: {\"content\":\"secon hello\"}","server":"post-service","timestamp":"2025-12-01T19:21:07.736Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T19:21:07.738Z"}
+{"0":"\"","1":"c","10":"s","11":" ","12":"r","13":"e","14":"q","15":"u","16":"i","17":"r","18":"e","19":"d","2":"o","3":"n","4":"e","5":"n","6":"t","7":"\"","8":" ","9":"i","level":"warn","message":"login validation error","server":"post-service","timestamp":"2025-12-01T19:21:07.749Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T19:21:53.707Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T19:21:53.763Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-01T19:22:05.799Z"}
+{"level":"info","message":"Request body: {\"content\":\"secon hello\"}","server":"post-service","timestamp":"2025-12-01T19:22:05.800Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-01T19:22:05.802Z"}
+{"level":"info","message":"Post created successfully","server":"post-service","timestamp":"2025-12-01T19:22:05.849Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:24:18.644Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:24:18.696Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:24:21.462Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:24:21.515Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:24:24.321Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:24:24.366Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:24:33.128Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:24:33.185Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:24:48.228Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:24:48.294Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:24:51.619Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:24:51.676Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:05.319Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:05.374Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:09.066Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:09.105Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:14.377Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:14.436Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:18.892Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:18.939Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:25.609Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:25.669Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:51.361Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:51.402Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:54.695Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:54.737Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:25:57.685Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:25:57.733Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:13.437Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:13.496Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:26.078Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:26.118Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:33.709Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:33.763Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:36.740Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:36.790Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:42.403Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:42.447Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:43.756Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:43.794Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:46.457Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:46.501Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:49.698Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:49.737Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:26:57.904Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:26:57.961Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:00.992Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:01.048Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:02.627Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:02.667Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:05.827Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:05.871Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:26.351Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:26.411Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:28.153Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:28.210Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:30.570Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:30.612Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:32.604Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:32.649Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:33.698Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:33.739Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:43.880Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:43.933Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:53.829Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:53.886Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:27:56.672Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:27:56.726Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:00.645Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:00.688Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:23.004Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:23.059Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:26.374Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:26.432Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:30.848Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:30.889Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:32.363Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:32.407Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:35.147Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:35.188Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:37.263Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:37.308Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:38.423Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:38.465Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:39.678Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:39.719Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:28:56.023Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:28:56.079Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:29:44.001Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:29:44.061Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:29:56.658Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:29:56.698Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:30:02.645Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:30:02.699Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:16.054Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:16.108Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:23.796Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:23.846Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:25.243Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:25.285Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:32.033Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:32.072Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:33.522Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:33.561Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:34.552Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:34.593Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:36.023Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:36.063Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:37.288Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:37.328Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:44.228Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:44.283Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:46.172Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:46.224Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:56.313Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:56.370Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:57.787Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:57.841Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:34:58.912Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:34:58.951Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:35:06.625Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:35:06.685Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:35:09.822Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:35:09.875Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:35:11.312Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:35:11.352Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:35:15.199Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:35:15.257Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:35:45.385Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:35:45.446Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:36:04.198Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:36:04.262Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:36:05.364Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:36:05.409Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:36:08.014Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:36:08.054Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:36:38.525Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:36:38.579Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:36:41.710Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:36:41.765Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:36:42.949Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:36:43.007Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:37:08.731Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:37:08.775Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:37:20.728Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:37:20.782Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:39:33.258Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:39:33.315Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-01T20:40:59.815Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T20:40:59.816Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-01T20:40:59.818Z"}
+{"command":{"args":["posts:1: 10","300","{\"posts\":[{\"_id\":\"692deadd07fd8d482e7947d6\",\"user\":\"6915ca33b2c51cec0cb47784\",\"content\":\"secon hello\",\"mediaIds\":[],\"createdAt\":\"2025-12-01T19:22:05.820Z\",\"updatedAt\":\"2025-12-01T19:22:05.820Z\",\"__v\":0},{\"_id\":\"692de868c5049687424940ae\",\"user\":\"6915ca33b2c51cec0cb47784\",\"content\":\"hello\",\"mediaIds\":[],\"createdAt\":\"2025-12-01T19:11:36.710Z\",\"updatedAt\":\"2025-12-01T19:11:36.710Z\",\"__v\":0}],\"currentPage\":1,\"totalPages\":1,\"totalPosts\":2}"],"name":"set"},"level":"error","message":"error getting all posts ERR syntax error","server":"post-service","stack":"ReplyError: ERR syntax error\n    at parseError (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/redis-parser@3.0.0/node_modules/redis-parser/lib/parser.js:179:12)\n    at parseType (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/redis-parser@3.0.0/node_modules/redis-parser/lib/parser.js:302:14)","timestamp":"2025-12-01T20:40:59.926Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:42:14.558Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:42:14.612Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T20:57:02.499Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T20:57:02.542Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-01T20:57:12.845Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T20:57:12.846Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-01T20:57:12.847Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-01T20:58:49.259Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T20:58:49.259Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-01T20:58:49.260Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-01T20:58:50.743Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T20:58:50.743Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-01T20:58:50.744Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-01T20:58:51.423Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T20:58:51.424Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-01T20:58:51.424Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-01T20:58:52.287Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-01T20:58:52.287Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-01T20:58:52.287Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:14.292Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:14.331Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:23.669Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:23.705Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:26.388Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:26.426Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:29.368Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:29.416Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:39.455Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:39.493Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:40.515Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:40.555Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:48.341Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:48.382Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:00:57.716Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:00:57.754Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:00.289Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:00.326Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:06.576Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:06.621Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:18.681Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:18.733Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:29.292Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:29.331Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:37.709Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:37.749Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:38.990Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:39.033Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:01:59.144Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:01:59.183Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:02:09.585Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:02:09.623Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:02:10.897Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:02:10.936Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:02:15.761Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:02:15.798Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:02:21.818Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:02:21.856Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:02:35.712Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:02:35.751Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:03:39.229Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:03:39.266Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:03:47.290Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:03:47.330Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:03:50.326Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:03:50.363Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:04:24.446Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:04:24.487Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:04:31.872Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:04:31.910Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:04:34.767Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:04:34.808Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:04:36.294Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:04:36.332Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:04:53.393Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:04:53.432Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-01T21:04:58.669Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-01T21:04:58.705Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T04:49:55.544Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T04:49:55.597Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:23:06.506Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:23:06.570Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:23:15.156Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:23:15.221Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:23:21.805Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:23:21.876Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:23:29.756Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:23:29.804Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:24:57.673Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:24:57.728Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:25:09.269Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:25:09.321Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:25:17.039Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:25:17.085Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:25:19.854Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:25:19.912Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:26:11.640Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:26:11.702Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:26:33.138Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:26:33.200Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:26:37.756Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:26:37.815Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:27:06.639Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:27:06.706Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:27:37.193Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:27:37.260Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:28:02.423Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:28:02.485Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:28:09.102Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:28:09.168Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:30:02.215Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:30:02.281Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:30:12.967Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:30:13.026Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:30:15.434Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:30:15.500Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:30:25.978Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:30:26.042Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:32:06.069Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:32:06.134Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:32:07.944Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:32:08.002Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:32:28.121Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:32:28.166Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T05:34:42.319Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:34:42.320Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:34:42.322Z"}
+{"level":"info","message":"Received GET request to /api/posts/692deadd07fd8d482e7947d6","server":"post-service","timestamp":"2025-12-02T05:35:26.687Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:35:26.687Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:35:26.689Z"}
+{"level":"info","message":"Received GET request to /api/posts/692deadd07fd8d482e7947d6","server":"post-service","timestamp":"2025-12-02T05:35:35.852Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:35:35.853Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:35:35.854Z"}
+{"level":"error","message":"error getting post","server":"post-service","timestamp":"2025-12-02T05:35:35.856Z"}
+{"level":"info","message":"Received GET request to /api/posts/692deadd07fd8d482e7947d6","server":"post-service","timestamp":"2025-12-02T05:36:05.782Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:36:05.783Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:36:05.784Z"}
+{"level":"error","message":"error getting post","server":"post-service","timestamp":"2025-12-02T05:36:05.786Z"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T05:37:14.091Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:37:14.092Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:37:14.092Z"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T05:37:17.183Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:37:17.184Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:37:17.185Z"}
+{"level":"error","message":"error getting post","server":"post-service","timestamp":"2025-12-02T05:37:17.186Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:38:33.274Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:38:33.339Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:38:34.881Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:38:34.939Z"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T05:39:46.535Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:39:46.536Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:39:46.539Z"}
+{"level":"error","message":"error getting post","server":"post-service","timestamp":"2025-12-02T05:39:46.542Z"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940a","server":"post-service","timestamp":"2025-12-02T05:40:04.378Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:40:04.379Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:40:04.381Z"}
+{"level":"error","message":"error getting post","server":"post-service","timestamp":"2025-12-02T05:40:04.392Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:41:33.552Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:41:33.618Z"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940a","server":"post-service","timestamp":"2025-12-02T05:41:46.454Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:41:46.455Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:41:46.458Z"}
+{"level":"error","message":"error getting post","server":"post-service","timestamp":"2025-12-02T05:41:46.471Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T05:42:45.523Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T05:42:45.588Z"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940a","server":"post-service","timestamp":"2025-12-02T05:42:58.035Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:42:58.035Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:42:58.038Z"}
+{"kind":"ObjectId","level":"error","message":"error getting post Cast to ObjectId failed for value \"692de868c5049687424940a\" (type string) at path \"_id\" for model \"Post\"","path":"_id","reason":{},"server":"post-service","stack":"CastError: Cast to ObjectId failed for value \"692de868c5049687424940a\" (type string) at path \"_id\" for model \"Post\"\n    at SchemaObjectId.cast (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._findOne (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:2697:8)\n    at model.Query.exec (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async getPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:121:16)","stringValue":"\"692de868c5049687424940a\"","timestamp":"2025-12-02T05:42:58.051Z","value":"692de868c5049687424940a","valueType":"string"}
+{"level":"info","message":"Received GET request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T05:43:35.634Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T05:43:35.635Z"}
+{"level":"info","message":"Getting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T05:43:35.637Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:49:30.740Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:49:30.782Z"}
+{"level":"info","message":"Received POST request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T19:50:29.556Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:50:29.556Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:50:29.559Z"}
+{"kind":"ObjectId","level":"error","message":"error deleting post Cast to ObjectId failed for value \"{ userId: '6915ca33b2c51cec0cb47784' }\" (type Object) at path \"user\" for model \"Post\"","path":"user","reason":{},"server":"post-service","stack":"CastError: Cast to ObjectId failed for value \"{ userId: '6915ca33b2c51cec0cb47784' }\" (type Object) at path \"user\" for model \"Post\"\n    at SchemaObjectId.cast (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/cast.js:319:34)\n    at Query.cast (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._findOneAndDelete (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:3616:8)\n    at model.Query.exec (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/mongoose@8.19.4/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async deletePost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:160:16)","stringValue":"\"{ userId: '6915ca33b2c51cec0cb47784' }\"","timestamp":"2025-12-02T19:50:29.567Z","value":{"userId":"6915ca33b2c51cec0cb47784"},"valueType":"Object"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:51:02.679Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:51:02.725Z"}
+{"level":"info","message":"Received POST request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T19:51:08.670Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:51:08.671Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:51:08.673Z"}
+{"level":"error","message":"error deleting post Cannot read properties of undefined (reading 'userId')","server":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'userId')\n    at deletePost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:158:27)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)\n    at handle (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15\n    at param (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:600:14)\n    at param (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:610:14)\n    at processParams (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:664:3)","timestamp":"2025-12-02T19:51:08.674Z"}
+{"level":"info","message":"Received POST request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T19:51:12.770Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:51:12.770Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:51:12.771Z"}
+{"level":"error","message":"error deleting post Cannot read properties of undefined (reading 'userId')","server":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'userId')\n    at deletePost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:158:27)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)\n    at handle (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15\n    at param (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:600:14)\n    at param (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:610:14)\n    at processParams (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:664:3)","timestamp":"2025-12-02T19:51:12.772Z"}
+{"level":"info","message":"Received POST request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T19:51:16.193Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:51:16.193Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:51:16.194Z"}
+{"level":"error","message":"error deleting post Cannot read properties of undefined (reading 'userId')","server":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'userId')\n    at deletePost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:158:27)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)\n    at handle (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15\n    at param (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:600:14)\n    at param (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:610:14)\n    at processParams (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:664:3)","timestamp":"2025-12-02T19:51:16.194Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:51:33.212Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:51:33.255Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:52:07.291Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:52:07.333Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:52:11.414Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:52:11.459Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:52:15.529Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:52:15.575Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:52:25.459Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:52:25.497Z"}
+{"level":"info","message":"Received POST request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T19:52:34.696Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:52:34.697Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:52:34.698Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:54:06.450Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:54:06.508Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:54:10.098Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:54:10.144Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:54:11.514Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:54:11.558Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T19:54:12.724Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T19:54:12.762Z"}
+{"level":"info","message":"Received POST request to /api/posts/692de868c5049687424940ae","server":"post-service","timestamp":"2025-12-02T19:54:16.778Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:54:16.779Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:54:16.781Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T19:59:45.608Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T19:59:45.609Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T19:59:45.610Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:24:19.561Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:24:19.562Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:24:19.562Z"}
+{"level":"info","message":"Received POST request to /api/posts/692deadd07fd8d482e7947d6","server":"post-service","timestamp":"2025-12-02T21:24:45.634Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:24:45.635Z"}
+{"level":"info","message":"Deleting post endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:24:45.635Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-02T21:25:46.188Z"}
+{"level":"info","message":"Request body: {\"content\":\"first content\"}","server":"post-service","timestamp":"2025-12-02T21:25:46.188Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:25:46.189Z"}
+{"level":"error","message":"error creating post Cannot destructure property 'userId' of 'req.userId' as it is undefined.","server":"post-service","stack":"TypeError: Cannot destructure property 'userId' of 'req.userId' as it is undefined.\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:36:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)\n    at handle (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15\n    at processParams (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:582:12)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:291:5)\n    at authenticateRequest (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/middlewares/auth.js:15:2)","timestamp":"2025-12-02T21:25:46.193Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-02T21:25:50.359Z"}
+{"level":"info","message":"Request body: {\"content\":\"first content\"}","server":"post-service","timestamp":"2025-12-02T21:25:50.360Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:25:50.360Z"}
+{"level":"error","message":"error creating post Cannot destructure property 'userId' of 'req.userId' as it is undefined.","server":"post-service","stack":"TypeError: Cannot destructure property 'userId' of 'req.userId' as it is undefined.\n    at createPost (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/controllers/postController.js:36:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/route.js:117:3)\n    at handle (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/lib/layer.js:152:17)\n    at /home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:295:15\n    at processParams (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:582:12)\n    at next (/home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/node_modules/.pnpm/router@2.2.0/node_modules/router/index.js:291:5)\n    at authenticateRequest (file:///home/dafriyie7/dev/express/microservices/social-media-microservice/post-service/src/middlewares/auth.js:15:2)","timestamp":"2025-12-02T21:25:50.361Z"}
+{"level":"info","message":"identity-service is running on port 3002","server":"post-service","timestamp":"2025-12-02T21:26:15.354Z"}
+{"level":"info","message":"Connected to MongoDB","server":"post-service","timestamp":"2025-12-02T21:26:15.386Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-02T21:26:22.098Z"}
+{"level":"info","message":"Request body: {\"content\":\"first content\"}","server":"post-service","timestamp":"2025-12-02T21:26:22.099Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:26:22.100Z"}
+{"level":"info","message":"Post created successfully","server":"post-service","timestamp":"2025-12-02T21:26:22.121Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:26:31.293Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:26:31.294Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:26:31.295Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","server":"post-service","timestamp":"2025-12-02T21:26:56.673Z"}
+{"level":"info","message":"Request body: {\"content\":\"second post\"}","server":"post-service","timestamp":"2025-12-02T21:26:56.673Z"}
+{"level":"info","message":"Creating post endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:26:56.674Z"}
+{"level":"info","message":"Post created successfully","server":"post-service","timestamp":"2025-12-02T21:26:56.686Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:27:00.237Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:27:00.237Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:27:00.238Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:27:06.342Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:27:06.342Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:27:06.342Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:27:42.863Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:27:42.863Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:27:42.863Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:27:43.863Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:27:43.863Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:27:43.863Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:27:44.810Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:27:44.810Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:27:44.810Z"}
+{"level":"info","message":"Received GET request to /api/posts/all-posts","server":"post-service","timestamp":"2025-12-02T21:27:46.654Z"}
+{"level":"info","message":"Request body: {}","server":"post-service","timestamp":"2025-12-02T21:27:46.654Z"}
+{"level":"info","message":"Getting all posts endpoint hit...","server":"post-service","timestamp":"2025-12-02T21:27:46.654Z"}

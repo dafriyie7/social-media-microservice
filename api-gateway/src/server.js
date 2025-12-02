@@ -8,6 +8,7 @@ import logger from "./utils/logger.js";
 import proxy from "express-http-proxy";
 import errorHandler from "./middleware/errorHandler.js";
 import { rateLimit } from "express-rate-limit";
+import validateToken from "./middleware/auth.js";
 
 dotenv.config();
 const app = express();
@@ -52,7 +53,7 @@ const proxyOptions = {
 	proxyErrorHandler: (err, res, next) => {
 		logger.error(`Proxy error: ${err.message}`);
 		res.status(500).json({
-			message: "Internal server error",
+			message: err?.message || "Internal server error",
 			error: err.message,
 		});
 	},
@@ -79,7 +80,7 @@ app.use(
 
 // post service proxy
 app.use(
-	"/v1/posts",
+	"/v1/posts", validateToken, 
 	proxy(process.env.POST_SERVICE_URI, {
 		...proxyOptions,
 		parseReqBody: true, // IMPORTANT — fixes empty body
@@ -87,12 +88,7 @@ app.use(
 
 		proxyReqOptDecorator: (proxyReqOpts, srcReq) => {
 			proxyReqOpts.headers["Content-Type"] = "application/json";
-
-			// FIX THIS — choose one:
-			// Option A: pass userId from the request body
-			if (srcReq.body?.userId) {
-				proxyReqOpts.headers["x-user-id"] = srcReq.body.userId;
-			}
+				proxyReqOpts.headers["x-user-id"] = srcReq.userId
 
 			return proxyReqOpts;
 		},
@@ -105,7 +101,6 @@ app.use(
 		},
 	})
 );
-
 
 // Error handling middleware
 app.use(errorHandler);
