@@ -102,6 +102,37 @@ app.use(
 	})
 );
 
+// media service proxy
+app.use(
+	"/v1/media",
+	validateToken,
+	proxy(process.env.MEDIA_SERVICE_URI, {
+		...proxyOptions,
+		proxyReqOptDecorator: (proxyReqOpts, srcReq) => {
+			proxyReqOpts.headers["x-user-id"] = srcReq.userId;
+
+			if (
+				!srcReq.headers["content-type"] ||
+				!srcReq.headers["content-type"].startsWith(
+					"multipart/form-data"
+				)
+			) {
+				proxyReqOpts.headers["Content-Type"] = "application/json";
+			}
+
+			return proxyReqOpts; // <-- fix here
+		},
+		userResDecorator: (proxyRes, proxyResData) => {
+			logger.info(
+				`Response received from media service: ${proxyRes.statusCode}`
+			);
+			return proxyResData;
+		},
+		parseReqBody: false,
+	})
+);
+
+
 // Error handling middleware
 app.use(errorHandler);
 
@@ -110,5 +141,6 @@ app.listen(PORT, () => {
 	logger.info(`API gateway running on port ${PORT}`);
 	logger.info(`Identity service URL: ${process.env.IDENTITY_SERVICE_URI}`);
 	logger.info(`post service URL: ${process.env.POST_SERVICE_URI}`);
+	logger.info(`media service URL: ${process.env.MEDIA_SERVICE_URI}`);
 	logger.info(`Redis URL: ${process.env.REDIS_URI}`);
 });

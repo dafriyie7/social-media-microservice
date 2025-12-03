@@ -1,13 +1,14 @@
 import dotenv from "dotenv";
 dotenv.config();
 import express from "express";
-import mongoose from "mongoose";
+import mongoose, { connect } from "mongoose";
 import redis from "ioredis";
 import cors from "cors";
 import helmet from "helmet";
 import postRoutes from "./routes/postRoutes.js";
 import errorHandler from "./middlewares/errorHandler.js";
 import logger from "./utils/logger.js";
+import { connectToRabbitmq } from "./utils/rabbitmq.js";
 
 const app = express();
 const PORT = process.env.PORT;
@@ -46,6 +47,22 @@ app.use(
 
 app.use(errorHandler);
 
-app.listen(PORT, () => {
-	logger.info(`identity-service is running on port ${PORT}`);
+async function startServer() {
+	try {
+		await connectToRabbitmq();
+
+		app.listen(PORT, () => {
+			logger.info(`post-service is running on port ${PORT}`);
+		});
+	} catch (error) {
+		logger.error("error starting server", error);
+		process.exit(1);
+	}
+}
+
+startServer();
+
+// unhandled promise rejection
+process.on("unhandledRejection", (reason, promise) => {
+	logger.error("Unhandled Rejection at:", promise, "reason:", reason);
 });

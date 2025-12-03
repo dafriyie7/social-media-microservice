@@ -891,3 +891,613 @@
 {"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-02T21:27:46.650Z"}
 {"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDcxMDYyNiwiZXhwIjoxNzY0NzE0MjI2fQ.Az7bHHTCtKlFdmucpHVvxK8QojPHQi27mZEKoD19NFk","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"a40926c2-a77c-4303-8cd1-1d51b72f507b","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-02T21:27:46.650Z"}
 {"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-02T21:27:46.656Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:34:01.741Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:34:01.745Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:34:01.746Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:34:01.747Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:34:19.084Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:34:19.088Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:34:19.089Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:34:19.089Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:34:22.206Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:34:22.209Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:34:22.210Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:34:22.210Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:34:23.945Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:34:23.949Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:34:23.950Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:34:23.950Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:35:48.173Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:35:48.177Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:35:48.178Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:35:48.178Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:35:52.114Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:35:52.117Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:35:52.118Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:35:52.118Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:00.736Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:00.739Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:00.740Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:00.741Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:28.568Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:28.572Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:28.573Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:28.573Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:29.740Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:29.743Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:29.744Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:29.744Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:31.660Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:31.663Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:31.664Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:31.664Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:32.819Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:32.822Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:32.823Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:32.823Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:43.227Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:43.230Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:43.231Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:43.231Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:44.403Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:44.406Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:44.407Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:44.408Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:51.643Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:51.646Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:51.647Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:51.647Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:36:54.954Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:36:54.958Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:36:54.959Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:36:54.959Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:37:11.814Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:37:11.817Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:37:11.818Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:37:11.819Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:37:13.010Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:37:13.013Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:37:13.014Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:37:13.015Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:37:39.004Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:37:39.008Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:37:39.009Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:37:39.009Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:37:50.092Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:37:50.096Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:37:50.097Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:37:50.097Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:37:51.137Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:37:51.140Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:37:51.141Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:37:51.142Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:38:05.600Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:38:05.604Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:38:05.605Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:38:05.605Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:38:10.693Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:38:10.696Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:38:10.697Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:38:10.697Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:38:17.507Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:38:17.510Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:38:17.511Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:38:17.511Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:45:30.467Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:45:30.471Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:45:30.472Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-02T23:45:30.473Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:45:30.473Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-02T23:45:33.783Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-02T23:45:33.786Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-02T23:45:33.787Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-02T23:45:33.787Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-02T23:45:33.788Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-02T23:56:41.227Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-02T23:56:41.228Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-02T23:57:28.400Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-02T23:57:28.401Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T00:00:01.213Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:00:01.213Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T00:00:12.697Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T00:00:12.700Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T00:00:12.701Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T00:00:12.702Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T00:00:12.702Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T00:00:36.578Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:00:36.579Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T00:01:54.335Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:01:54.336Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T00:04:42.142Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T00:04:42.145Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T00:04:42.147Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T00:04:42.147Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T00:04:42.147Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T00:04:56.597Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:04:56.597Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T00:06:26.053Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:06:26.053Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T00:06:34.948Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:06:34.949Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T00:06:36.268Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T00:06:36.268Z"}
+{"level":"info","message":"Received GET request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:15:02.207Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:15:09.281Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:15:09.281Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:15:57.099Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:15:57.100Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:16:00.563Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:16:00.564Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:16:02.771Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:16:02.772Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T07:17:15.731Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T07:17:15.740Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T07:17:15.740Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T07:17:15.740Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T07:17:15.740Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:17:24.294Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:17:24.294Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:17:24.294Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"2a9c9b96-b622-46be-99d4-db48ec32a94f","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:17:24.294Z"}
+{"level":"warn","message":"access attempted without token","server":"api-gateway","timestamp":"2025-12-03T07:17:24.295Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T07:17:35.938Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T07:17:35.938Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T07:17:36.092Z"}
+{"level":"info","message":"Received POST request to /v1/media","server":"api-gateway","timestamp":"2025-12-03T07:17:51.132Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:17:51.132Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:17:51.132Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0NjI1NiwiZXhwIjoxNzY0NzQ5ODU2fQ.c51ClLfT10zvYCRVgcLwjs2lbQXFeKTsJ1cXMgBIQhk","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"dc8b1de7-ae67-4ad9-838f-2b20a08f5c7f","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:17:51.132Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T07:17:51.148Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:18:06.883Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:18:06.883Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:18:06.883Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0NjI1NiwiZXhwIjoxNzY0NzQ5ODU2fQ.c51ClLfT10zvYCRVgcLwjs2lbQXFeKTsJ1cXMgBIQhk","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"748215f8-f46d-415a-8618-c4db1d71ef35","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:18:06.883Z"}
+{"level":"info","message":"Response received from media service: 400","server":"api-gateway","timestamp":"2025-12-03T07:18:06.888Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T07:44:30.978Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T07:44:30.981Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T07:44:30.982Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T07:44:30.982Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T07:44:30.982Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T07:44:34.363Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T07:44:34.365Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T07:44:34.615Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:45:23.026Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:45:23.027Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:45:23.028Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"b07430e0-888f-4981-b8e6-1afe9dcdd1b0","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:45:23.029Z"}
+{"level":"info","message":"Response received from media service: 400","server":"api-gateway","timestamp":"2025-12-03T07:45:23.080Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:46:01.528Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:46:01.529Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:46:01.529Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"0","content-type":"multipart/form-data","host":"localhost:3000","postman-token":"4acbfcac-eaf7-466a-b1cd-8d9e0fd96131","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:46:01.529Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T07:46:01.541Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:47:07.039Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:47:07.040Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:47:07.040Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------300059888510622400244683","host":"localhost:3000","postman-token":"84efb22b-d0f0-4e3e-8052-39efeffd4d2a","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:47:07.040Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T07:47:07.056Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:48:54.043Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:48:54.044Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:48:54.044Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------075536929338142715950438","host":"localhost:3000","postman-token":"37ca778d-72a7-4bea-abd8-cb01f20a0756","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:48:54.044Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T07:48:54.080Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:51:30.278Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:51:30.278Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:51:30.278Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------266293400704033774770262","host":"localhost:3000","postman-token":"057e7279-ddf4-42b9-ba79-a1b9a8572111","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:51:30.278Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T07:51:30.315Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T07:57:49.545Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T07:57:49.546Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T07:57:49.546Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------420253110733372886838382","host":"localhost:3000","postman-token":"b205c66b-72b2-4dcd-8601-80f6b7576fb2","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T07:57:49.546Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T07:57:54.646Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T08:05:03.432Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T08:05:03.433Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:05:03.433Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------336027933633477265205767","host":"localhost:3000","postman-token":"027512ab-a9e9-49a1-9e34-1a2d5239dcdd","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:05:03.433Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T08:05:13.294Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T08:06:24.871Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T08:06:24.871Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:06:24.871Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------387976925150665091962203","host":"localhost:3000","postman-token":"3f23f811-7959-4162-8dfa-ccf3c97093d8","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:06:24.871Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T08:06:29.164Z"}
+{"level":"info","message":"Received GET request to /api-docs/","server":"api-gateway","timestamp":"2025-12-03T08:08:21.138Z"}
+{"level":"info","message":"Received GET request to /api-docs/","server":"api-gateway","timestamp":"2025-12-03T08:08:22.343Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T08:11:21.679Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T08:11:21.683Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T08:11:21.683Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T08:11:21.684Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T08:11:21.684Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T08:12:55.778Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T08:12:55.779Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:12:55.780Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------169763776497889815112172","host":"localhost:3000","postman-token":"5fa19b91-9a6e-4ead-8df1-eac0d7a8dd9e","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:12:55.780Z"}
+{"level":"info","message":"Response received from media service: 500","server":"api-gateway","timestamp":"2025-12-03T08:13:01.377Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T08:24:29.808Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T08:24:29.808Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:24:29.809Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"92684","content-type":"multipart/form-data; boundary=--------------------------967610396464468478969572","host":"localhost:3000","postman-token":"4c6841a2-2ae2-4698-88cb-81ea0f766670","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:24:29.809Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T08:24:34.116Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T08:27:43.608Z"}
+{"level":"info","message":"Request body: {\"content\":\"first media upload\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T08:27:43.609Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:27:43.609Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDcxMDYyNiwiZXhwIjoxNzY0NzE0MjI2fQ.Az7bHHTCtKlFdmucpHVvxK8QojPHQi27mZEKoD19NFk","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"871169df-9e10-4676-8bff-936e01721333","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:27:43.609Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T08:27:43.611Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T08:28:10.784Z"}
+{"level":"info","message":"Request body: {\"content\":\"first media upload\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T08:28:10.784Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:28:10.784Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"6aded6ae-5dfc-4540-bfe1-f56fc2ec9f59","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:28:10.784Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T08:28:10.855Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T08:28:25.103Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:28:25.103Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDYyMTYzMSwiZXhwIjoxNzY0NjI1MjMxfQ.thY01lku19jR7-hQTNfnnXesmAFMSFOAzQ9ClWguaQs","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"4901f9b3-7c74-4b59-8cff-75a8ffeac3c6","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:28:25.103Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T08:28:25.105Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T08:28:33.650Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:28:33.650Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"0dcc5933-8645-4523-9386-17ccdb0e347d","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:28:33.650Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T08:28:33.701Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692ff49ac1678bce2e52c2a6","server":"api-gateway","timestamp":"2025-12-03T08:30:39.992Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T08:30:39.993Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:30:39.993Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"d10388e3-1b3c-4a22-9368-285e1a2e71b4","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:30:39.993Z"}
+{"level":"warn","message":"access attempted without token","server":"api-gateway","timestamp":"2025-12-03T08:30:39.993Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692ff49ac1678bce2e52c2a6","server":"api-gateway","timestamp":"2025-12-03T08:31:00.937Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T08:31:00.938Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:31:00.938Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"d79dc7d3-57f2-4d24-aa66-ceff5b6065e1","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:31:00.938Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T08:31:00.960Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T08:31:10.444Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:31:10.444Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"6056f56f-a241-49dc-9146-d7698db80147","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:31:10.444Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T08:31:10.460Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T08:33:13.953Z"}
+{"level":"info","message":"Request body: {\"content\":\"first media upload\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T08:33:13.953Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:33:13.953Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"4e506318-3d99-40bf-bb8b-9658b8e0d028","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:33:13.953Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T08:33:14.026Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T08:33:32.202Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T08:33:32.202Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"3b4d0fd0-eb16-48d3-8647-5d7f19e4bc6d","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T08:33:32.202Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T08:33:32.234Z"}
+{"level":"info","message":"Received GET request to /api-docs/","server":"api-gateway","timestamp":"2025-12-03T10:57:39.303Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T12:22:17.913Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T12:22:17.914Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T12:22:18.209Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T12:24:24.237Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:24:24.238Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"23dcd6c9-8d4b-44ca-a3f0-afd51db55503","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:24:24.238Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T12:24:24.286Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T12:29:36.391Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T12:29:36.392Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:29:36.392Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","content-length":"1350091","content-type":"multipart/form-data; boundary=--------------------------619685351367181459898891","host":"localhost:3000","postman-token":"63a46f3f-b1b0-45af-bfd2-3c462355a74e","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:29:36.392Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T12:29:52.123Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T12:31:08.438Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:31:08.439Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"73a9579a-fc5d-4ad2-b08c-73b2859edcac","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:31:08.439Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T12:31:08.441Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T12:31:17.906Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:31:17.906Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"5d1fcfbc-7513-4219-a727-ab6973c67805","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:31:17.906Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T12:31:18.018Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T12:32:36.130Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:32:36.130Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"3d5c9822-d444-4ef9-af32-fb33e5396f42","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:32:36.130Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T12:32:36.138Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692f59a080e8bcfa0a0794e5","server":"api-gateway","timestamp":"2025-12-03T12:33:21.275Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T12:33:21.275Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:33:21.276Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"7563b15f-3e8b-44f9-8203-969985c4e924","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:33:21.276Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T12:33:21.277Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692f59a080e8bcfa0a0794e5","server":"api-gateway","timestamp":"2025-12-03T12:34:07.045Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T12:34:07.045Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:34:07.045Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"d4b8e68e-7148-4779-92b3-427e006ad103","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:34:07.046Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T12:34:07.072Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692f59a080e8bcfa0a0794e5","server":"api-gateway","timestamp":"2025-12-03T12:34:25.704Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T12:34:25.704Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:34:25.704Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"64de17e8-c0cd-435c-9f66-674990952572","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:34:25.704Z"}
+{"level":"info","message":"Response received from post service: 404","server":"api-gateway","timestamp":"2025-12-03T12:34:25.713Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T12:34:39.858Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T12:34:39.858Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"51c1fa45-ef17-4be1-a762-98084e4af7c7","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T12:34:39.858Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T12:34:39.868Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T15:50:08.816Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T15:50:08.821Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T15:50:08.823Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T15:50:08.824Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T15:50:08.824Z"}
+{"level":"info","message":"Received GET request to /api-docs/","server":"api-gateway","timestamp":"2025-12-03T16:31:32.435Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T18:05:02.211Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T18:05:02.211Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T18:05:02.536Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:05:45.732Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:05:45.733Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"55fbb364-e599-4569-bc92-ad7bfdb5383f","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:05:45.734Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:05:45.799Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:06:12.057Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:06:12.058Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"7190cdaf-4a8e-4470-b291-4985f8ce930f","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:06:12.058Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:06:12.194Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692ff5c90b6c3163f598a90f","server":"api-gateway","timestamp":"2025-12-03T18:06:42.175Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T18:06:42.176Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:06:42.176Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"e8b6a427-8a03-4176-badb-0ee0c1ea371e","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:06:42.176Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:06:42.220Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:06:51.720Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:06:51.721Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"542b05b2-2a32-4a06-9b90-2c2ae9b2945e","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:06:51.721Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:06:51.737Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:07:13.229Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:13.229Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"31d3e08b-e460-479b-aaf6-4eae6fd71db8","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:13.229Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:13.245Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:07:16.823Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:16.824Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"6de9d503-1d7a-41cb-b9fb-2d7bfae32de3","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:16.824Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:16.839Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:07:17.650Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:17.650Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"70c8a775-9e5c-4e04-8048-17b953920ed1","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:17.650Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:17.667Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:07:26.775Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:26.776Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"d3e929e9-b9e5-43f3-adf5-fab892b48c23","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:26.776Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:26.797Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:07:28.335Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:28.335Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"a6091ced-ecbe-4e9c-b8a9-b090df309ccf","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:28.335Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:28.346Z"}
+{"level":"info","message":"Received POST request to /v1/posts/692f597e80e8bcfa0a0794e1","server":"api-gateway","timestamp":"2025-12-03T18:07:47.964Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T18:07:47.965Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:47.965Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"914254b0-ef99-47e4-a976-801e9cc24443","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:47.966Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:47.986Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:07:52.636Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:07:52.636Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"9fd00810-862a-49d9-9d0b-e174b66f0ce4","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:07:52.637Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:07:52.660Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:09:35.667Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:09:35.667Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"212ddb16-06dc-445f-810c-edc97b2d7e84","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:09:35.668Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:09:35.682Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T18:10:38.920Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"69302d401f8e9876ef45f308\"]}","server":"api-gateway","timestamp":"2025-12-03T18:10:38.921Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:10:38.921Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc0Nzg3NCwiZXhwIjoxNzY0NzUxNDc0fQ.AgfuqxtE_9NpuAqLuNpjemRF_3ulAUlYJjf_RQrQOcM","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"5caf20ad-ede6-43e5-bf93-348c147b0bb7","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:10:38.921Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T18:10:38.924Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T18:10:52.273Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"69302d401f8e9876ef45f308\"]}","server":"api-gateway","timestamp":"2025-12-03T18:10:52.274Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:10:52.277Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"9c8ac0f4-9afb-434b-a01f-2556106b42cc","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:10:52.277Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T18:10:52.343Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:10:57.162Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:10:57.163Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"5900de28-d910-44bb-8e54-a78626576404","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:10:57.163Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:10:57.187Z"}
+{"level":"info","message":"Received POST request to /v1/posts/69307d2c4090c1549160898c","server":"api-gateway","timestamp":"2025-12-03T18:11:13.329Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T18:11:13.330Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:11:13.330Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"ce6dfd29-ef4b-4797-878f-67b6229c97f9","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:11:13.330Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:11:13.358Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:11:32.666Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:11:32.667Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"f6925789-b98e-4a9f-9936-abf683996ab1","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:11:32.667Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:11:32.679Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:11:40.480Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:11:40.481Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"998119ad-8339-4938-a41e-d18bec38fba5","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:11:40.481Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:11:40.495Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:11:48.183Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:11:48.184Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"6c3a7041-85a5-4209-b10c-4b4b9ed43b2d","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:11:48.184Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:11:48.203Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:11:59.432Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:11:59.432Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"6c569765-15ff-4519-9f7b-61c0c4cf53a5","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:11:59.433Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:11:59.451Z"}
+{"level":"info","message":"API gateway running on port 3000","server":"api-gateway","timestamp":"2025-12-03T18:12:39.319Z"}
+{"level":"info","message":"Identity service URL: http://localhost:3001","server":"api-gateway","timestamp":"2025-12-03T18:12:39.325Z"}
+{"level":"info","message":"post service URL: http://localhost:3002","server":"api-gateway","timestamp":"2025-12-03T18:12:39.326Z"}
+{"level":"info","message":"media service URL: http://localhost:3003","server":"api-gateway","timestamp":"2025-12-03T18:12:39.326Z"}
+{"level":"info","message":"Redis URL: redis://localhost:6379","server":"api-gateway","timestamp":"2025-12-03T18:12:39.327Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:22:26.558Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:22:26.560Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"20a46fe4-2e6a-4045-b661-a0160ca50946","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:22:26.560Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:22:26.665Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T18:22:33.996Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T18:22:33.996Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:22:33.997Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc2NDUzOCwiZXhwIjoxNzY0NzY4MTM4fQ.uR1uic5mrfHeQgfDTKjMOSh3o0sSOV457Ckt6c27wTk","cache-control":"no-cache","connection":"keep-alive","content-length":"1350091","content-type":"multipart/form-data; boundary=--------------------------849541520934108556661010","host":"localhost:3000","postman-token":"7810fe5e-e276-4107-bdbd-d29e96bc774d","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:22:33.998Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T18:22:34.000Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T18:22:45.475Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"69302d401f8e9876ef45f308\"]}","server":"api-gateway","timestamp":"2025-12-03T18:22:45.476Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:22:45.476Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"86fa1be0-f182-4eb3-835f-0a7e332c81bf","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:22:45.476Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T18:22:45.543Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:22:52.556Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:22:52.557Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"12bdf132-d3c8-4120-83be-0469ff888a0c","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:22:52.557Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:22:52.586Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:23:18.566Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:23:18.567Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"1a82a7e9-3c7b-4bcc-bbb1-0acb4281bf9c","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:23:18.567Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:23:18.622Z"}
+{"level":"info","message":"Received POST request to /v1/posts/69307ff5cc84731f4632c372","server":"api-gateway","timestamp":"2025-12-03T18:23:36.012Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T18:23:36.013Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:23:36.013Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"cad9d96f-72da-4309-8744-5a06df975a92","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:23:36.014Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:23:36.068Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:23:41.130Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:23:41.131Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"096c8216-8887-4488-ba07-572e15ac1a3b","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:23:41.131Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:23:41.147Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:25:55.496Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:25:55.497Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"ebac2c09-f9bb-455c-a34d-0a33b8847921","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:25:55.497Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:25:55.513Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:26:04.022Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:26:04.023Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"d2112041-576c-4902-84bd-953effb21d0e","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:26:04.023Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:26:04.046Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:30:03.813Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:30:03.814Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"64f68f8e-d388-4841-b3eb-58be91877e61","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:30:03.814Z"}
+{"level":"error","message":"Proxy error: connect ECONNREFUSED 127.0.0.1:3003","server":"api-gateway","timestamp":"2025-12-03T18:30:03.822Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:30:09.171Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:30:09.171Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4NTEwMiwiZXhwIjoxNzY0Nzg4NzAyfQ.nUXuWiMDKfIYkXBkv_n65OJdi0zST63dUyP73THFrO8","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"f2edb013-efd9-4765-b998-dc677f14dfeb","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:30:09.172Z"}
+{"level":"error","message":"Proxy error: connect ECONNREFUSED 127.0.0.1:3003","server":"api-gateway","timestamp":"2025-12-03T18:30:09.176Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T18:36:01.985Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T18:36:01.986Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T18:36:02.175Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:37:41.255Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:37:41.255Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"250419e4-6cfa-41a0-b29a-9a5e686e8508","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:37:41.256Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:37:41.268Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:37:50.468Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:37:50.469Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"43bd254b-eca4-4cdc-a992-0bcd9f28156a","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:37:50.469Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:37:50.504Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T18:38:30.643Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T18:38:30.643Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:38:30.643Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"f301fef0-c55a-48a5-bc61-8b524a77ecb4","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:38:30.643Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T18:38:30.662Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:38:35.356Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:38:35.357Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"5d0c1f6f-435e-421d-be70-cc739c0ef9be","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:38:35.357Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:38:35.372Z"}
+{"level":"info","message":"Received POST request to /v1/posts/693083a6cc84731f4632c37b","server":"api-gateway","timestamp":"2025-12-03T18:39:01.061Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T18:39:01.061Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:39:01.061Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"21767228-3f38-4fb5-9745-23d84e21104e","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:39:01.061Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:39:01.080Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T18:39:04.700Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:39:04.700Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"6eb69097-0ecb-43cb-950e-f771e20ec076","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:39:04.700Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T18:39:04.710Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:39:28.112Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:39:28.112Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"e5cd8f83-0103-4605-bbe1-f2f5f46bc4ac","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:39:28.112Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:39:28.123Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:39:29.679Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:39:29.679Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"5b2fa456-b81f-42b3-abe0-ddf17c40a301","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:39:29.679Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:39:29.685Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:39:32.743Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:39:32.743Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"84576a82-a8dc-48aa-9cd3-22f15bd57898","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:39:32.743Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:39:32.749Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T18:39:37.168Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T18:39:37.168Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"8408d634-ceab-4411-bf97-415226b84234","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T18:39:37.168Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T18:39:37.174Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T19:28:34.902Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T19:28:34.902Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T19:28:35.056Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T19:28:50.710Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T19:28:50.710Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T19:28:50.710Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc5MDExNSwiZXhwIjoxNzY0NzkzNzE1fQ.pAp43BitLE4Mtbbi6qjowmPioxIMs4bZQEQYSO82us4","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"35be0ef5-f7f4-4655-9f30-1836bc7696a4","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T19:28:50.710Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T19:28:50.775Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T19:28:56.023Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T19:28:56.023Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"161a3319-a1af-475e-b976-0523270029e8","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T19:28:56.023Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T19:28:56.056Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T19:29:03.855Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T19:29:03.856Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"efd897ef-a477-4082-9da7-a12a14b8721f","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T19:29:03.856Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T19:29:03.863Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T19:29:08.233Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T19:29:08.234Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"c131e638-b2f0-4a65-9481-ea0799eca300","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T19:29:08.234Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T19:29:08.242Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T19:29:18.804Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T19:29:18.804Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"bccc985e-e867-4661-b5f1-bb0286552bd7","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T19:29:18.805Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T19:29:18.836Z"}
+{"level":"info","message":"Received GET request to /api-docs/","server":"api-gateway","timestamp":"2025-12-03T19:58:06.724Z"}
+{"level":"info","message":"Received POST request to /v1/auth/login","server":"api-gateway","timestamp":"2025-12-03T22:51:01.615Z"}
+{"level":"info","message":"Request body: {\"email\":\"dafriyie7@gmail.com\",\"password\":\"password\"}","server":"api-gateway","timestamp":"2025-12-03T22:51:01.616Z"}
+{"level":"info","message":"Response received from identity service: 200","server":"api-gateway","timestamp":"2025-12-03T22:51:01.818Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T22:51:15.927Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:51:15.928Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"3f26cf6a-725a-41ba-a4d4-9de2b3dd1906","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:51:15.928Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T22:51:15.996Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T22:51:28.122Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:51:28.123Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"a483333b-88ba-4619-951f-e6b09d1bd12a","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:51:28.123Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T22:51:28.125Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T22:51:34.609Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:51:34.609Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"2f3e2b11-a042-4918-a15f-d4fc3d9a77ba","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:51:34.609Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T22:51:34.625Z"}
+{"level":"info","message":"Received POST request to /v1/posts/69308f727ec3e1467226d025","server":"api-gateway","timestamp":"2025-12-03T22:52:00.686Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T22:52:00.686Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:52:00.687Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"00e3c289-6ba6-40a1-ba85-598cb05ad3a0","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:52:00.687Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T22:52:00.725Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T22:53:06.133Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:53:06.134Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"4af5d0a9-9cea-41f7-ac39-31ae5ba46790","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:53:06.134Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T22:53:06.151Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T22:58:38.860Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T22:58:38.860Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:58:38.861Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc5MDExNSwiZXhwIjoxNzY0NzkzNzE1fQ.pAp43BitLE4Mtbbi6qjowmPioxIMs4bZQEQYSO82us4","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"6e82bcc7-f95d-4bb6-a0b1-edfc8894b5c2","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:58:38.861Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T22:58:38.863Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T22:58:46.475Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:58:46.476Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"071ba47d-a689-4083-8bf7-c2a61cf8de39","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:58:46.476Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T22:58:46.569Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T22:59:04.110Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T22:59:04.111Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:59:04.111Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"eb36d79e-779e-4976-bc67-3e7154e08d63","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:59:04.111Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T22:59:04.177Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T22:59:08.107Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:59:08.107Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"0dc85131-5a30-4d73-9bfb-d743dd986e5b","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:59:08.107Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T22:59:08.139Z"}
+{"level":"info","message":"Received POST request to /v1/posts/6930c0b841507fd65e613e69","server":"api-gateway","timestamp":"2025-12-03T22:59:20.352Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T22:59:20.352Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:59:20.352Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","content-length":"0","host":"localhost:3000","postman-token":"d5ff1b70-410d-4ad9-9cc2-7a7fecbdfe49","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:59:20.353Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T22:59:20.384Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T22:59:59.257Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T22:59:59.257Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T22:59:59.258Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDc4Njk2MiwiZXhwIjoxNzY0NzkwNTYyfQ.GKBb3mA17S9_78gZwiooN0YPS5IFtKhU7t7JMGMlq3M","cache-control":"no-cache","connection":"keep-alive","content-length":"1350091","content-type":"multipart/form-data; boundary=--------------------------717714246606156123755323","host":"localhost:3000","postman-token":"5713d68f-e84a-4ba2-95bd-c2110305284a","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T22:59:59.258Z"}
+{"level":"warn","message":"invalid token","server":"api-gateway","timestamp":"2025-12-03T22:59:59.260Z"}
+{"level":"info","message":"Received POST request to /v1/media/upload","server":"api-gateway","timestamp":"2025-12-03T23:00:13.749Z"}
+{"level":"info","message":"Request body: undefined","server":"api-gateway","timestamp":"2025-12-03T23:00:13.750Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:00:13.750Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","content-length":"1350091","content-type":"multipart/form-data; boundary=--------------------------628654408317516856057931","host":"localhost:3000","postman-token":"9e27110e-b726-4638-a903-d7d8e3ec4527","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:00:13.750Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T23:00:30.038Z"}
+{"level":"info","message":"Received GET request to /v1/media/get","server":"api-gateway","timestamp":"2025-12-03T23:00:32.633Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:00:32.633Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"07f56de3-3831-41b5-8ae6-b7eae61b1280","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:00:32.634Z"}
+{"level":"info","message":"Response received from media service: 200","server":"api-gateway","timestamp":"2025-12-03T23:00:32.666Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T23:00:55.128Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:00:55.129Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"c0b6ad9f-1fb2-4a1c-8e4e-37a89559f904","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:00:55.129Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T23:00:55.150Z"}
+{"level":"info","message":"Received POST request to /v1/posts/create-post","server":"api-gateway","timestamp":"2025-12-03T23:01:07.536Z"}
+{"level":"info","message":"Request body: {\"content\":\"post with an image\",\"mediaIds\":[\"692ff3c2a37fcebeebf754dc\"]}","server":"api-gateway","timestamp":"2025-12-03T23:01:07.537Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:01:07.537Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","content-length":"85","content-type":"application/json","host":"localhost:3000","postman-token":"e85bd705-d515-4d05-b61a-0d3d3d25be6d","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:01:07.537Z"}
+{"level":"info","message":"Response received from post service: 201","server":"api-gateway","timestamp":"2025-12-03T23:01:07.566Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T23:01:15.611Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:01:15.611Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"c17d91c8-7940-4d13-bc3d-e5590a3d3e46","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:01:15.612Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T23:01:15.637Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T23:01:17.190Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:01:17.190Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"a4df18e1-4f49-4a11-8b2b-31aec4cfb39d","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:01:17.191Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T23:01:17.201Z"}
+{"level":"info","message":"Received GET request to /v1/posts/all-posts","server":"api-gateway","timestamp":"2025-12-03T23:01:17.747Z"}
+{"level":"info","message":"debugg","server":"api-gateway","timestamp":"2025-12-03T23:01:17.747Z"}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTE1Y2EzM2IyYzUxY2VjMGNiNDc3ODQiLCJ1c2VybmFtZSI6ImRhZnJpeWllNyIsImlhdCI6MTc2NDgwMjI2MSwiZXhwIjoxNzY0ODA1ODYxfQ.Q1KkwneEe1xa6T1QO_RFKHJLT1JxP6hlkAW6yhe6MtI","cache-control":"no-cache","connection":"keep-alive","host":"localhost:3000","postman-token":"53e51b7c-f115-4ae6-ae8c-95b30459da2a","user-agent":"PostmanRuntime/7.39.1"},"server":"api-gateway","timestamp":"2025-12-03T23:01:17.747Z"}
+{"level":"info","message":"Response received from post service: 200","server":"api-gateway","timestamp":"2025-12-03T23:01:17.759Z"}
